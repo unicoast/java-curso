@@ -1,0 +1,72 @@
+############################
+# Java / JVM
+############################
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+############################
+# Build tools (Maven / Gradle)
+############################
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+############################
+# IntelliJ IDEA
+############################
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+############################
+# Eclipse / STS
+############################
+.classpath
+.project
+.settings/
+.factorypath
+.springBeans
+.sts4-cache/
+.apt_generated
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+############################
+# NetBeans
+############################
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+############################
+# VS Code
+############################
+.vscode/
+
+############################
+# OS
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Misc
+############################
+*.swp
+*.tmp
+*.bak
