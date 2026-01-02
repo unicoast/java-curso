@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Novak Djokovic",
+    "age": 38,
+    "country": "Serbia",
+    "email": "djokovic@ausopen.com",
+    "active": true,
+    "hobbies": [
+      "Ciclismo",
+      "Senderismo",
+      "Yoga"
+    ],
+    "grandSlams": {
+      "US Open": 4,
+      "Australian Open": 10,
+      "Wimbledon": 7,
+      "Roland Garros": 3
+    }
+  },
+  {
+    "name": "Rafael Nadal",
+    "age": 39,
+    "country": "España",
+    "email": "nadal@rolandgarros.com",
+    "active": false,
+    "hobbies": [
+      "Fútbol",
+      "Pesca",
+      "Golf"
+    ],
+    "grandSlams": {
+      "US Open": 4,
+      "Australian Open": 2,
+      "Wimbledon": 2,
+      "Roland Garros": 14
+    }
+  },
+  {
+    "name": "Roger Federer",
+    "age": 44,
+    "country": "Suiza",
+    "email": "federer@wimbledon.com",
+    "active": false,
+    "hobbies": [
+      "Golf",
+      "Videojuegos",
+      "Esquí"
+    ],
+    "grandSlams": {
+      "US Open": 5,
+      "Australian Open": 6,
+      "Wimbledon": 8,
+      "Roland Garros": 1
+    }
+  }
+]
