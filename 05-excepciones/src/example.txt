@@ -1,0 +1,9 @@
+Throwable
+   |
+   |-- Exception (CheckedException)
+   |      |-- IOException
+   |      |      |-- FileNotFoundException
+   |
+   |-- RuntimeException (UncheckedException)
+          |-- NullPointerException
+          |-- ArithmeticException
