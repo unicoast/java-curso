@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Estudiar programación",
+    "description": "Estudiar Java 1 hora",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "title": "Hacer ejercicio",
+    "description": "30 minutos de trote",
+    "completed": true
+  }
+]
